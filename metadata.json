@@ -1,0 +1,8 @@
+{
+  "name": "Motto - Aynı Enerjide Buluş | 18+ Sosyal Eşleşme Platformu",
+  "description": "18+ genç yetişkinler, üniversiteliler ve genç profesyoneller için modern, güvenli ve premium sosyal keşif ve tanışma platformu. Aynı enerjide buluş.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
