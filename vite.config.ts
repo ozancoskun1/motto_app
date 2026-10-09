@@ -8,7 +8,7 @@ export default defineConfig(() => {
       },
     },
     build: {
-      outDir: "docs",
+      outDir: "root",
       emptyOutDir: true,
     },
     server: {
